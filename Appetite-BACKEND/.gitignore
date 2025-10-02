@@ -1,0 +1,35 @@
+*.pyc
+app/serviceAccount.json
+app/serviceAccount_clone.json
+app/serviceAccount1.json
+app/serviceAccount2.json
+idea.txt
+audio_debug/*
+
+# Python cache and compiled files
+__pycache__/
+*.pyo
+*.pyd
+
+# Environment and config files
+.env
+.env.*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Virtual environments
+venv/
+env/
+
+# IDE/editor settings
+.vscode/
+.idea/
+*.swp
+
+# Test and coverage outputs
+.coverage
+htmlcov/
+db_init/RAW_interactions.csv
+db_init/RAW_recipes.csv

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "215863404601",
+    "project_id": "androidproject-dcd3e",
+    "storage_bucket": "androidproject-dcd3e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215863404601:android:303f12be106f9cc4d2c5e8",
+        "android_client_info": {
+          "package_name": "com.example.appetite"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZrVUaom1p8JajPlFGkMuoGXLHS1U9ieg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
